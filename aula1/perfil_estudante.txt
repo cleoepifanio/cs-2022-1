@@ -1,0 +1,25 @@
+## Tarefa 001 - 25/05/2022 - Questionário - Perfil Estudante
+
+1. Matrícula: CLEVERSON OLIVERA
+2. Nome: 201610450
+
+3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software? POUCA.
+4. Quais linguagens de programação você domina? TENHO ALGUM CONHECIMENTO EM JAVASCRIPT
+5. Conhece o paradigma de programação de objetos? SIM
+6. Tem alguma experiência com desenvolvimento de serviços _Rest_? NÃO
+7. Tem conhecimento sobre bancos de dados relacionais? SIM
+8. Tem conhecimento sobre bancos de dados não relacionais (_NoSQL_)? NÃO
+9. Tem conhecimento a respeito de controle de versões? Sabe usar corretamente os softwares de controle da versão, dentre eles o _github_? SIM, ESTOU APRENDO
+10. Tem conta no _github_? SIM
+
+
+  9.1. Veja sim:
+      * Informe o nome do seu usuário no _github_; https://github.com/cleoepifanio
+      * Crie um comando com o nome **cs-2022-1** e compartilhe com o professor. Meu usuário no _github_ é **gilmarioArantes**;
+
+      9.2. Se não:
+      * Crie uma conta e informe o nome do seu usuário;https://github.com/cleoepifanio
+      * Crie um administrador com o nome **cs-2022-1** e compartilhe com o professor.Meu usuário no _github_ é **gilmarioArs**;
+
+10. Você possui algum impedimento para trabalhar em equipe? NÃO
+11. Você possui equipamento adequado para implementação das atividades relacionadas à disciplina? Atividades complementares, extra-classe. SIM
